@@ -1,16 +1,28 @@
-### Hi there 👋
+### Opa! Seja muito bem vindo(a) ao meu perfil! Eu sou o Gabriel Castro, desenvolvedor FullStack!
 
-<!--
-**retr0byte/retr0byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como PHP FullStack Developer
+- 🌱 Estudando JAVA + Spring
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/retr0byte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retr0byte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0byte&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Retr0byte-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Retr0byte-Spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  
+  <img align="center" alt="Retr0byte-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Retr0byte-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Retr0byte-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Retr0byte-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Retr0byte-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Retr0byte-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  
+  <img align="center" alt="Retr0byte-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+</div>
+
+##
+  
